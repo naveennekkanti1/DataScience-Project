@@ -23,7 +23,7 @@ To run this project, make sure you have Python 3.6 or later installed. You can i
 pip install pandas numpy scikit-learn transformers torch nltk sentence-transformers matplotlib seaborn plotly evaluate rouge_score
 ```
 
-#1-model-fine-tuning
+# 1-model-fine-tuning
 Importing necessary libraries and downloading required NLTK data files.
 Loading the dataset and combining relevant columns to create a comprehensive text feature called "Impression."
 Splitting the data into training and evaluation sets.
