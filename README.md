@@ -1,4 +1,4 @@
-# 5C-Network
+# DataScience-Project
 # Word Pair Similarity and Impression Generation with GPT-2
 
 This repository implements a comprehensive pipeline for generating medical impressions using a fine-tuned GPT-2 model and analyzing word similarities through cosine similarity. It utilizes various libraries such as Transformers, NLTK, Sentence Transformers, and Plotly for data processing, model training, evaluation, and visualization.
